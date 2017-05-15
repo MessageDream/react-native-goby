@@ -1,0 +1,36 @@
+{
+  "name": "goby-plugin-testing-framework",
+  "version": "0.0.1",
+  "description": "Plugin Testing Framework for Goby Plugins",
+  "main": "script/index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MessageDream/goby.git"
+  },
+  "author": {
+    "name": "MessageDream"
+  },
+  "license": "MIT",
+  "homepage": "https://buxuxiao.github.io/goby",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "mocha": "latest",
+    "mocha-junit-reporter": "latest",
+    "node-uuid": "^1.4.3",
+    "q": "^1.4.1",
+    "replace": "latest",
+    "superagent": "^1.7.2",
+    "superagent-proxy": "^1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/MessageDream/goby/issues"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "goby-plugin-testing-framework@0.0.1",
+  "_shasum": "6ea33a661710628af266d714949fe95f88d71f0d",
+  "_from": "../goby/plugin-testing-framework/bin",
+  "_resolved": "file:../goby/plugin-testing-framework/bin"
+}

@@ -1,0 +1,5 @@
+rootProject.name = 'GobyDemoApp'
+include ':react-native-goby'
+project(':react-native-goby').projectDir = new File(rootProject.projectDir, '../..//node_modules/react-native-goby/android/app')
+
+include ':app'
