@@ -1,4 +1,4 @@
-# React Native Module for [Goby](https://github.com/MessageDream/goby.git)
+# React Native Module for [goby](https://github.com/MessageDream/goby.git)
 
 *Note: 
 
