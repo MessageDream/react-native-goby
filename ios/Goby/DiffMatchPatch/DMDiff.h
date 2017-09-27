@@ -52,4 +52,6 @@ typedef enum {
 + (id)diffWithOperation:(DMDiffOperation)anOperation andText:(NSString *)aText;
 - (id)initWithOperation:(DMDiffOperation)anOperation andText:(NSString *)aText;
 
+- (DMDiffOperation)dm_operation;
+
 @end

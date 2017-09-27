@@ -122,4 +122,9 @@
 	return [_text hash] ^ (NSUInteger)_operation;
 }
 
+- (DMDiffOperation)dm_operation
+{
+    return self.operation;
+}
+
 @end
