@@ -1,6 +1,6 @@
 {
   "name": "react-native-goby",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "React Native plugin for the Goby service",
   "main": "Goby.js",
   "types": "types/index.d.ts",
